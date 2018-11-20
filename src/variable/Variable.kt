@@ -18,6 +18,7 @@ fun main(args: Array<String>){
     age = 10                    // Assign value 10 to age
     var lastName : String = "b"  //This is way to fix data type,
     // if not fix Kotlin will read from value such as "s" -> should be type String
+    // var number : int          //Seem like Kotlin no have primitive data type then we have to use fun Int instead
 
     /**
      * val is constant and constant cannot be change anymore
