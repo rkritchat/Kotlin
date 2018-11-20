@@ -9,7 +9,7 @@ fun main(args: Array<String>){
     var ten = 10                //Int
     var name = "kritchat"       //String
     var weight = 68.5           //Float
-    // ten = "a"                //Will error because a already reserve to Int
+    // ten = "a"                //Will error because variable ten already reserve to Int
 
     /**
      * We can also fix type of variable following below
